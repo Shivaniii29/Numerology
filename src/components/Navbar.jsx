@@ -25,7 +25,7 @@ export default function Navbar() {
             <Sparkles className="w-8 h-8 text-teal-600" />
             <div className="flex flex-col">
               <span className="text-xl font-bold text-teal-600">
-                <i>Upasna Malik</i>
+                <i>Upasna U Malik</i>
               </span>
             
             </div>

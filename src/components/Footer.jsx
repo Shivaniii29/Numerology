@@ -18,7 +18,7 @@ export default function Footer() {
             <div className="flex items-center space-x-2 mb-4">
               <Sparkles className="w-8 h-8 text-teal-400" />
               <div className="flex flex-col">
-                  <i>Upasna Malik</i>
+                  <i>Upasna U Malik</i>
               </div>
             </div>
             <p className="text-gray-400 leading-relaxed">

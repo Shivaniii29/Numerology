@@ -4,12 +4,12 @@ import { useState } from "react"
 import { Play, ChevronLeft, ChevronRight } from "lucide-react"
 
 const videos = [
-  { thumbnail: "/numerology-reading-vertical-video.jpg", title: "What is Numerology?" },
-  { thumbnail: "/life-path-number-explanation-vertical.jpg", title: "Understanding Life Path Numbers" },
-  { thumbnail: "/client-testimonial-numerology-vertical.jpg", title: "Client Success Story" },
-  { thumbnail: "/how-to-calculate-destiny-number-vertical.jpg", title: "Calculating Your Destiny Number" },
-  { thumbnail: "/numerology-compatibility-vertical.jpg", title: "Numerology Compatibility" },
-  { thumbnail: "/yearly-forecast-numerology-vertical.jpg", title: "Your Personal Year Forecast" },
+  { thumbnail: "/numerology-reading-vertical-video.jpg", title: "" },
+  { thumbnail: "/life-path-number-explanation-vertical.jpg", title: "" },
+  { thumbnail: "/client-testimonial-numerology-vertical.jpg", title: "" },
+  { thumbnail: "/how-to-calculate-destiny-number-vertical.jpg", title: "" },
+  { thumbnail: "/numerology-compatibility-vertical.jpg", title: "" },
+  { thumbnail: "/yearly-forecast-numerology-vertical.jpg", title: "" },
 ]
 
 export default function VideoGallery() {
