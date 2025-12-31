@@ -14,7 +14,7 @@ export default function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const whatsappMessage = `Hi, I'm ${formData.name}
+    const whatsappMessage = `Hi, I'm ${formData.name} I want to book a reading
 
 Email: ${formData.email}
 Phone: ${formData.phone}
