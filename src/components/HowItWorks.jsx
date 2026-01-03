@@ -80,7 +80,7 @@ export default function HowItWorks() {
         <div className="mt-16 bg-white rounded-3xl p-8 sm:p-12 shadow-xl">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
-              <div className="text-3xl font-bold text-teal-600 mb-2">60 Minutes</div>
+              <div className="text-3xl font-bold text-teal-600 mb-2">50 Minutes</div>
               <p className="text-gray-600">Comprehensive consultation</p>
             </div>
             <div className="text-center border-l border-r border-gray-200">
