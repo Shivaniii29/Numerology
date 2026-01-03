@@ -12,13 +12,13 @@ export default function Footer() {
     <footer className="bg-gray-900 text-white py-12 px-4">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-8">
-          
+
           {/* Brand */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Sparkles className="w-8 h-8 text-teal-400" />
               <div className="flex flex-col">
-                  <i>Upasna U Malik</i>
+                <i>NumeroHealings</i>
               </div>
             </div>
             <p className="text-gray-400 leading-relaxed">
@@ -31,7 +31,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              {["home", "about", "services", "calculator", "pricing", "contact"].map(
+              {["home", "about", "services", "pricing", "contact"].map(
                 (section) => (
                   <li key={section}>
                     <button
@@ -66,8 +66,9 @@ export default function Footer() {
               </div>
 
               <div className="flex space-x-4 pt-2">
+                {/* ✅ Instagram link added */}
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/numerohealing3?igsh=Y2JidDN0cTMyeWVw"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-teal-600 transition-colors"

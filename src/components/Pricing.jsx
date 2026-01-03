@@ -41,7 +41,7 @@ export default function Pricing() {
             <div className="inline-flex items-center justify-center w-12 h-12 bg-white rounded-full mb-3">
               <Video className="w-6 h-6 text-teal-600" />
             </div>
-            <h3 className="text-2xl font-bold text-white mb-1">1-Hour Online Session</h3>
+            <h3 className="text-2xl font-bold text-white mb-1">50-Minutes Online Session</h3>
             <p className="text-teal-100">Personal Video Consultation</p>
           </div>
 

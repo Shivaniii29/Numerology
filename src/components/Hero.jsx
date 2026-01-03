@@ -19,7 +19,7 @@ export default function Hero() {
           <div className="inline-flex items-center space-x-2 bg-white px-6 py-3 rounded-full shadow-md">
             <Sparkles className="w-5 h-5 text-amber-500" />
             <span className="text-gray-700 font-medium">
-              Alignment • Inner Peace
+              Alignment • Inner Peace , Growth & Clarity
             </span>
           </div>
 
@@ -31,7 +31,7 @@ export default function Hero() {
 
           {/* Subtitle */}
           <p className="text-2xl sm:text-3xl md:text-4xl text-gray-600 font-light max-w-4xl mx-auto">
-            When numbers align, peace follows
+            When numbers align, peace & clarity follows
           </p>
 
           {/* Highlight Card */}
@@ -56,12 +56,7 @@ export default function Hero() {
               Book Your Session
             </button>
 
-            <button
-              onClick={() => scrollToSection("calculator")}
-              className="bg-white text-teal-600 px-8 py-4 rounded-full hover:bg-gray-50 transition-all text-lg font-medium shadow-lg hover:shadow-xl border-2 border-teal-600 transform hover:-translate-y-1"
-            >
-              Calculate Destiny Number
-            </button>
+           
           </div>
         </div>
       </div>

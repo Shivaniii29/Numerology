@@ -25,7 +25,7 @@ export default function Navbar() {
             <Sparkles className="w-8 h-8 text-teal-600" />
             <div className="flex flex-col">
               <span className="text-xl font-bold text-teal-600">
-                <i>Upasna U Malik</i>
+                <i>NumeroHealings</i>
               </span>
             
             </div>
@@ -57,12 +57,7 @@ export default function Navbar() {
             >
               How It Works
             </button>
-            <button
-              onClick={() => scrollToSection("calculator")}
-              className="text-gray-700 hover:text-teal-600 transition-colors font-medium"
-            >
-              Calculator
-            </button>
+         
             <button
               onClick={() => scrollToSection("pricing")}
               className="text-gray-700 hover:text-teal-600 transition-colors font-medium"

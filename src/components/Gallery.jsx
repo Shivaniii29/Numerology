@@ -6,16 +6,15 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 import image1 from "../assets/image1.jpeg"
 import image2 from "../assets/image2.jpeg"
 import image3 from "../assets/image3.jpeg"
-import image4 from "../assets/image4.jpeg"
 
 
 const images = [
   { url: image1, alt: "Numerology Consultation 1" },
   { url:image2, alt: "Sacred Numbers Session" },
   { url: image3, alt: "Spiritual Guidance" },
-  { url: image4 ,alt: "Numerology Charts" },
+  { url: image2 ,alt: "Numerology Charts" },
   { url:image1, alt: "Healing Energy" },
-  { url: image2, alt: "Life Path Consultation" },
+  { url: image3, alt: "Life Path Consultation" },
 ]
 
 export default function Gallery() {
