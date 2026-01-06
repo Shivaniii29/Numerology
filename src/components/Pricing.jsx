@@ -77,7 +77,7 @@ export default function Pricing() {
 
             <div className="mt-4 p-3 bg-teal-50 rounded-xl text-center">
               <p className="text-gray-700 font-medium text-sm">
-                Join 250+ satisfied clients who found clarity and purpose
+                Join 250+ satisfied souls who found clarity and purpose
               </p>
             </div>
           </div>

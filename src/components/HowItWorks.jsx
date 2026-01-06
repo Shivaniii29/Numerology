@@ -12,8 +12,8 @@ export default function HowItWorks() {
     {
       icon: BookOpen,
       number: '02',
-      title: 'Birth Chart Analysis',
-      description: 'I prepare a detailed analysis of your birth date, time, and name using numerological principles to understand your unique life patterns.',
+      title: 'Life Path Analysis',
+      description: 'I prepare a detailed analysis of your life using numerological principles to understand your unique life patterns.',
       color: 'bg-emerald-100 text-emerald-600',
     },
     {

@@ -3,13 +3,13 @@
 import { Sparkles, TrendingUp, Shield, Heart, Calendar, Map } from "lucide-react"
 
 const services = [
-  {
-    icon: Sparkles,
-    title: "Birth Chart Analysis",
-    description:
-      "Discover your cosmic blueprint and understand how planetary positions at your birth influence your life path and personality.",
-    color: "from-teal-500 to-teal-600",
-  },
+  // {
+  //   icon: Sparkles,
+  //   title: "Birth Chart Analysis",
+  //   description:
+  //     "Discover your cosmic blueprint and understand how planetary positions at your birth influence your life path and personality.",
+  //   color: "from-teal-500 to-teal-600",
+  // },
   {
     icon: TrendingUp,
     title: "Career Guidance",
