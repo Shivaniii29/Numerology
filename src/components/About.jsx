@@ -23,7 +23,7 @@ export default function About() {
             <div className="border-t-2 border-teal-200 pt-8">
               {/* <h3 className="text-3xl font-bold text-gray-900 mb-4">Upasna U Malik</h3> */}
               <p className="text-lg text-gray-600 leading-relaxed mb-6">
-               Welcome! I'm a passionate numerologist dedicated to helping people discover their true potential through the ancient science of numbers. With over 2 years of experience and 250+ successful consultations, I've witnessed the transformative power of numerology in countless lives.</p>
+               Welcome! I'm a passionate numerologist dedicated to helping people discover their true potential through the ancient science of numbers. With over 2 years of experience and 500+ successful consultations, I've witnessed the transformative power of numerology in countless lives.</p>
               <p className="text-lg text-gray-600 leading-relaxed mb-8">
                My consultants don't just appreciate my work—they love it! Each session is personalized, insightful, and designed to provide you with actionable guidance for your life journey.
 
