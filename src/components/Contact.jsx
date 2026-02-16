@@ -23,7 +23,7 @@ Birth Time: ${formData.birthtime}
 
 Message: ${formData.message}`;
 
-    const whatsappUrl = `https://wa.me/919990123500?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/9217953311?text=${encodeURIComponent(
       whatsappMessage
     )}`;
     window.open(whatsappUrl, "_blank");
@@ -132,7 +132,7 @@ Message: ${formData.message}`;
                   className="w-full px-4 py-4 border-2 border-teal-200 rounded-xl focus:outline-none focus:border-teal-600 text-lg"
                 />
               </div>
-
+{/* 
               <div>
                 <label
                   htmlFor="birthtime"
@@ -148,8 +148,8 @@ Message: ${formData.message}`;
                   value={formData.birthtime}
                   onChange={handleChange}
                   className="w-full px-4 py-4 border-2 border-teal-200 rounded-xl focus:outline-none focus:border-teal-600 text-lg"
-                />
-              </div>
+                /> */}
+              {/* </div> */}
             </div>
 
             {/* Message */}

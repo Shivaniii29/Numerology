@@ -32,7 +32,7 @@ Whether you're seeking clarity about your career, relationships, or life purpose
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mt-8">
                 <div className="bg-white rounded-2xl p-6 text-center shadow-md">
                   <Users className="w-10 h-10 text-teal-600 mx-auto mb-3" />
-                  <div className="text-3xl font-bold text-gray-900 mb-1">250+</div>
+                  <div className="text-3xl font-bold text-gray-900 mb-1">500+</div>
                   <div className="text-gray-600">Happy Souls</div>
                 </div>
                 <div className="bg-white rounded-2xl p-6 text-center shadow-md">

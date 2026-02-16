@@ -57,7 +57,7 @@ export default function Footer() {
                 className="flex items-center space-x-3 text-gray-400 hover:text-teal-400 transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                <span>+91 9990123500</span>
+                <span>+91 9217953311</span>
               </a>
 
               <div className="flex items-center space-x-3 text-gray-400">
@@ -97,7 +97,7 @@ export default function Footer() {
               All rights reserved.
             </p>
             <p className="text-gray-400 text-center md:text-right">
-              Guiding 250+ souls to their true path
+              Guiding 500+ souls to their true path
             </p>
           </div>
         </div>
